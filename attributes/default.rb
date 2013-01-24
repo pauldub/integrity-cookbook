@@ -1,0 +1,5 @@
+default[:integrity][:user] = 'integrity'
+default[:integrity][:group] = 'integrity'
+default[:integrity][:path_prefix] = '/opt'
+default[:integrity][:repository] = 'git://github.com/integrity/integrity'
+default[:integrity][:revision] = 'master'
